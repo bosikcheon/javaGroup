@@ -1,6 +1,5 @@
 package t18_Collection.t11_ex;
 
-import java.util.HashSet;
 import java.util.TreeSet;
 
 public class T02_Lotto2 {

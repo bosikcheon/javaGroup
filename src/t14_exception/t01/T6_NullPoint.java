@@ -1,5 +1,6 @@
 package t14_exception.t01;
 
+@SuppressWarnings("null")
 public class T6_NullPoint {
 	public static void main(String[] args) {
 		String str = "Seoul";

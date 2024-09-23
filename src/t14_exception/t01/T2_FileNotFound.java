@@ -3,6 +3,7 @@ package t14_exception.t01;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
+@SuppressWarnings({"unused", "resource"})
 public class T2_FileNotFound {
 	public static void main(String[] args) {
 		
